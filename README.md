@@ -1,6 +1,3 @@
-# CODSOFT_TASK-1 #internship
-
- 
 CHATBOT WITH RULE-BASED  RESPONSES
 
 
